@@ -354,9 +354,9 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     top:0;
     left:0;
 }
-.portfolio_area{ position:relative;color:#fff;}
+.portfolio_area{ position:relative;color:#393939;}
 .portfolio_area h2 {
-    color: #fff;
+    color: #393939;
     margin: 65px 0 34px;
 }
 /* Portfolio filters */
